@@ -70,11 +70,11 @@
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&border_color=8a2be2&hide_border=true&layout=compact" />
-    </a>
-  </div>
+  <div align="center">
+  <a href="https://github.com/76AHMEDFAKHER?tab=repositories">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=76AHMEDFAKHER&theme=radical&border_color=8a2be2&hide_border=true&layout=compact" alt="Top Languages" />
+  </a>
+</div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=76AHMEDFAKHER&theme=radical&bg_color=0d1117&hide_border=true&color=8a2be2" width="100%"/>
 </p>
