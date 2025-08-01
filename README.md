@@ -63,7 +63,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&border=8a2be2&hide_border=true" alt="YOUR_USERNAME" />
+      <img align="left" width=390 src="h[ttps://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&border=8a2be2&hide_border=true](https://github.com/76AHMEDFAKHER)" alt="Ahmed Fakhr El-Din" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_color=8a2be2&hide_border=true" />
